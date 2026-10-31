@@ -1,0 +1,6 @@
+{
+  "name": "WMS DUMA KREASI INDONESIA - Sistem Manajemen Inventaris Terpadu",
+  "description": "Sistem inventaris gudang PT Duma Kreasi Indonesia: Katalog SKU, Tracking BIN Multi-Gudang, Inbound/Outbound, Pre-Order, Pelaporan Kustom, dan Sistem Notifikasi Stok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
